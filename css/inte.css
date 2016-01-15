@@ -1,0 +1,396 @@
+body {
+position: relative;
+width: 100%;
+font-family: 'Ubuntu', sans-serif;
+}
+
+nav{
+  position: relative;
+  width: 100%;
+}
+header{
+
+  width: 100%;
+  position: relative;
+}
+
+article{
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  background-image:url("../images/bg1.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-position: -306px 317px;
+
+}
+.triangle{
+  height: 0;
+  width: 0;
+  border-top;
+  border bottom;
+  border-top:10px;
+  solid transparent #blue;
+  border-left:20px;
+  border-right:20px;
+  solid transparent;
+}
+img{
+  width: 350px;
+  height: 450px;
+  margin-left: 50px;
+}
+
+.left{
+position: relative;
+display: inline-block;
+
+}
+
+.right{
+  position: relative;
+  display: inline-block;
+  top: -200px;
+  margin-left: 50px;
+  width: 60%;
+}
+     /* email*/
+.buttonemail1 p {
+
+    position: relative;
+    width: 300px;
+    height: 30px;
+    border-width:1px;
+    border-style:solid;
+    border-color:rgb(214, 209, 212);
+    margin:auto;
+    margin-right: 500px;
+    color:rgb(214, 209, 212);
+  }
+
+
+.buttonemail2{
+  position: relative;
+  width: 30%;
+  display: inline-block;
+  margin-right:130px;
+}
+.buttonemail3{
+  position: relative;
+  width: 30%;
+  display: inline-block;
+  padding-top: 20px;
+}
+.buttonemail2 p {
+  background-color: rgb(187, 194, 241);
+  padding: 8px;
+  color: white;
+  width: 300px;
+  height: 24px;
+  text-align: center;
+  margin-right: 70px;
+}
+.buttonemail3 p {
+  background-color: black;
+  padding: 8px;
+  color: white;
+  width: 300px;
+  height: 24px;
+  text-align: center;
+
+}
+.finaltext {
+    padding-bottom: 100px;
+}
+.finaltext p{
+  text-align: center;
+  color: white;
+}
+.finaltext .centrer{
+color: white;
+text-align: center;
+}
+
+.hiring{
+    background-image:url("../images/bg2.jpg");
+    background-size:cover;
+    height: 400px;
+}
+
+.hiringtext {
+
+
+  text-align:center;
+  vertical-align:middle;
+  color:white;
+  padding-top:100px;
+}
+.hiring .hiringtext .apply p{
+  background-color: rgb(187, 194, 241);
+  padding: 10px;
+  color: white;
+  width: 300px;
+  height: 20px;
+  margin-left: 440px;
+}
+
+
+.white {
+  text-align: center;
+
+}
+
+.white h1 {
+  font-size: 30px;
+  padding-top: 50px;
+
+}
+.white p {
+  padding-bottom:50px;
+}
+
+.violet{
+  display: flex;
+  position: relative;
+  width: 100%;
+
+}
+
+.violetright{
+  position:relative;
+  background-color:rgb(172, 177, 242);
+  position:relative;
+  width: 50%;
+  display: inline;
+  vertical-align: top;
+
+}
+.violettext {
+  color: white;
+  width: 70%;
+  padding-left: 100px;
+  padding-top: 30px;
+
+}
+.violet img {
+  position: relative;
+  margin-left: 0px;
+  display: inline;
+  vertical-align: top;
+  width:50%;
+  height: 300px;
+
+}
+
+.build{
+  display: flex;
+  position:relative;
+  width: 100%;
+}
+
+.buildup {
+   position:relative;
+
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+.build img {
+    position: relative;
+    margin-left: 0px;
+    display: inline-block;
+    vertical-align: top;
+    width:50%;
+    height: 300px;
+}
+
+.buildup h1{
+  margin-left: 20px;
+}
+.buildup p{
+  color:rgb(61, 253, 232);
+  margin-left: 20px;
+}
+.buildup li {
+  margin-top: 7px;
+}
+
+/*quick */
+.quick{
+  position: relative;
+  width: 100%;
+  background-image:url("../images/bg3.jpg");
+  position:center;
+  background-size:cover;
+}
+.quicktext{
+  color: white;
+  width: 30%;
+  padding-left: 100px;
+  padding-top: 70px;
+  height: 250px;
+}
+hr{
+  color: red;
+  width: 95px;
+  margin-right: 255px;
+
+}
+.blue{
+  position: relative;
+  display: flex;
+  background-color: rgb(61, 253, 232);
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  margin: auto;
+
+}
+.blue .launch {
+  position: relative;
+  width: 40%;
+  display: inline-block;
+  padding-top: 30px;
+  color: white;
+  margin-top: 100px;
+text-align: right;
+}
+.blue .logo {
+  position: relative;
+  display: inline-block;
+  width: 20%;
+}
+
+.blue .logo img {
+  position: relative;
+  display: inline-block;
+  height: 170px;
+  width: 115px;
+  padding-top: 50px;
+
+}
+.blue .mille {
+  color: white;
+  width: 40%
+  margin-right:100px;
+  margin-top: 70px;
+
+
+}
+.blue .mille .chiffre{
+  font-weight: bold;
+  font-size: 2em;
+  margin-bottom: -27px;
+
+}
+
+.what{
+  display: flex;
+  position: relative;
+  width: 100%;
+
+}
+
+.whatright{
+  position:relative;
+  position:relative;
+  width: 50%;
+  display: inline;
+  vertical-align: top;
+
+}
+.whattext {
+  color: black;
+  width: 70%;
+  padding-left: 100px;
+  padding-top: 30px;
+
+}
+.what img {
+  position: relative;
+  margin-left: 0px;
+  display: inline;
+  vertical-align: top;
+  width:50%;
+  height: 300px;
+
+}
+
+.what hr{
+  background-color:rgb(172, 177, 242);
+  width: 95px;
+  margin-left: 7px;
+  height: 2px;
+  border: none;
+}
+.what li {
+  margin-bottom: 10px;
+  margin-left: -15px;
+}
+footer {
+  position: relative;
+  width: 99%;
+
+}
+ footer .request {
+   width: 100%;
+   position: relative;
+ }
+footer .request .requesttext h2{
+  color:black;
+  text-align: center;
+  padding-bottom: 30px;
+}
+footer .request .requesttext{
+  color:white;
+  padding-top:70px;
+  position: relative;
+  padding-right: 100px;
+}
+
+footer .request .requesttext .rose {
+  position: relative;
+  display: inline-block;
+  width: 30%;
+  margin-left: 254px;
+
+
+}
+footer .request .requesttext .noir{
+  position: relative;
+  width: 30%;
+  display: inline-block;
+  margin-right:200px;
+
+
+}
+footer .request .requesttext .noir   p{
+  background-color: black;
+  padding: 10px;
+  color: white;
+  width: 300px;
+  height: 20px;
+  text-align: center
+
+}
+footer .request .requesttext .rose  p{
+  background-color: rgb(187, 194, 241);
+  padding: 10px;
+  color: white;
+  width: 300px;
+  height: 20px;
+  text-align: center;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.buttonemail{
+  position: relative;
+  width: 670px;
+  height: 40px;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgb(214, 209, 212);
+  margin:auto;
+  margin-right: 253px;
+  color:rgb(214, 209, 212);
+}
